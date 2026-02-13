@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13 15:11">
+<yml_catalog date="2026-02-13 15:15">
   <shop>
     <offers>
-      <offer id="1111176813" available="true">
-        <price>73334</price>
-        <oldprice>99001</oldprice>
-        <outlets>
-          <outlet instock="5" warehouse_name="Москва"/>
-        </outlets>
-      </offer>
       <offer id="1111173694" available="true">
         <price>65268</price>
         <oldprice>88112</oldprice>
