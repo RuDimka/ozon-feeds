@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-13 16:38">
+<yml_catalog date="2026-02-14 08:08">
   <shop>
     <offers>
       <offer id="21111112466">
@@ -74,66 +74,77 @@
       </offer>
       <offer id="21111112540">
         <price>79735</price>
+        <oldprice>107642</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114155">
         <price>80105</price>
+        <oldprice>108142</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111113525">
         <price>77885</price>
+        <oldprice>105145</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114247">
         <price>86210</price>
+        <oldprice>116384</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111111294">
         <price>111925</price>
+        <oldprice>151099</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114239">
         <price>117475</price>
+        <oldprice>158591</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114230">
         <price>117475</price>
+        <oldprice>158591</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114752">
         <price>105635</price>
+        <oldprice>142607</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114754">
         <price>105635</price>
+        <oldprice>142607</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114740">
         <price>85655</price>
+        <oldprice>115634</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
       </offer>
       <offer id="21111114751">
         <price>85655</price>
+        <oldprice>115634</oldprice>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
