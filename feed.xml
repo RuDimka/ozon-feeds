@@ -1549,6 +1549,13 @@
           <outlet instock="0" warehouse_name="Москва"/>
         </outlets>
       </offer>
+      <offer id="21111114240">
+        <price>91205</price>
+        <oldprice>123127</oldprice>
+        <outlets>
+          <outlet instock="0" warehouse_name="Москва"/>
+        </outlets>
+      </offer>
     </offers>
   </shop>
 </yml_catalog>
