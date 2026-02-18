@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-18 13:40">
+<yml_catalog date="2026-02-18 13:44">
   <shop>
     <offers>
       <offer id="21111112466">
@@ -145,6 +145,42 @@
       <offer id="21111114751">
         <price>85655</price>
         <oldprice>115634</oldprice>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111116913">
+        <price>63825</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111116869">
+        <price>97125</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111112350">
+        <price>105080</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111112697">
+        <price>98235</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111113926">
+        <price>91205</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="Сантехникофф"/>
+        </outlets>
+      </offer>
+      <offer id="21111119897">
+        <price>73445</price>
         <outlets>
           <outlet instock="0" warehouse_name="Сантехникофф"/>
         </outlets>
