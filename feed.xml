@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-18 20:11">
+<yml_catalog date="2026-02-19 00:01">
   <shop>
     <offers>
       <offer id="1111176813">
@@ -741,7 +741,7 @@
         <price>41255</price>
         <oldprice>55695</oldprice>
         <outlets>
-          <outlet instock="284" warehouse_name="Москва"/>
+          <outlet instock="283" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11712">
@@ -783,7 +783,7 @@
         <price>40034</price>
         <oldprice>54046</oldprice>
         <outlets>
-          <outlet instock="134" warehouse_name="Москва"/>
+          <outlet instock="133" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="1111165336">
