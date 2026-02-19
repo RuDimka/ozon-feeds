@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-19 10:26">
+<yml_catalog date="2026-02-19 12:02">
   <shop>
     <offers>
       <offer id="21111112084_1">
@@ -20467,21 +20467,21 @@
         <price>37818</price>
         <oldprice>51055</oldprice>
         <outlets>
-          <outlet instock="159" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="158" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11613_1">
         <price>37818</price>
         <oldprice>51055</oldprice>
         <outlets>
-          <outlet instock="120" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="114" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11614_1">
         <price>40434</price>
         <oldprice>54586</oldprice>
         <outlets>
-          <outlet instock="270" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="269" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11615_1">
@@ -20495,28 +20495,28 @@
         <price>38940</price>
         <oldprice>52569</oldprice>
         <outlets>
-          <outlet instock="181" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="180" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11713_1">
         <price>38940</price>
         <oldprice>52569</oldprice>
         <outlets>
-          <outlet instock="12" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="1" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11714_1">
         <price>41668</price>
         <oldprice>56252</oldprice>
         <outlets>
-          <outlet instock="338" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="334" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11715_1">
         <price>41668</price>
         <oldprice>56252</oldprice>
         <outlets>
-          <outlet instock="283" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="280" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="11111113034_1">
