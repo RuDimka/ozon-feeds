@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-20 12:01">
+<yml_catalog date="2026-02-20 18:01">
   <shop>
     <offers>
       <offer id="1111176813">
@@ -734,28 +734,28 @@
         <price>37444</price>
         <oldprice>50550</oldprice>
         <outlets>
-          <outlet instock="152" warehouse_name="Москва"/>
+          <outlet instock="149" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11715">
         <price>41255</price>
         <oldprice>55695</oldprice>
         <outlets>
-          <outlet instock="278" warehouse_name="Москва"/>
+          <outlet instock="277" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11712">
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="181" warehouse_name="Москва"/>
+          <outlet instock="179" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11713">
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="4" warehouse_name="Москва"/>
+          <outlet instock="2" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11714">
@@ -769,7 +769,7 @@
         <price>40034</price>
         <oldprice>54046</oldprice>
         <outlets>
-          <outlet instock="269" warehouse_name="Москва"/>
+          <outlet instock="227" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11613">
@@ -783,7 +783,7 @@
         <price>40034</price>
         <oldprice>54046</oldprice>
         <outlets>
-          <outlet instock="129" warehouse_name="Москва"/>
+          <outlet instock="127" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="1111165336">
