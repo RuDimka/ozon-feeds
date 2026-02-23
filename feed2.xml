@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-23 12:02">
+<yml_catalog date="2026-02-23 12:50">
   <shop>
     <offers>
       <offer id="21111112084_1">
@@ -19571,14 +19571,14 @@
         <price>54037</price>
         <oldprice>72950</oldprice>
         <outlets>
-          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="0" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111175726_1">
         <price>85054</price>
         <oldprice>114823</oldprice>
         <outlets>
-          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="0" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111175727_1">
@@ -19739,7 +19739,7 @@
         <price>47834</price>
         <oldprice>64576</oldprice>
         <outlets>
-          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="0" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111165575_1">
@@ -19928,7 +19928,7 @@
         <price>49328</price>
         <oldprice>66593</oldprice>
         <outlets>
-          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="0" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111150729_1">
@@ -20180,7 +20180,7 @@
         <price>24664</price>
         <oldprice>33297</oldprice>
         <outlets>
-          <outlet instock="8" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111136088_1">
@@ -20229,7 +20229,7 @@
         <price>85054</price>
         <oldprice>114823</oldprice>
         <outlets>
-          <outlet instock="5" warehouse_name="Сантехников ФБС КГТ"/>
+          <outlet instock="0" warehouse_name="Сантехников ФБС КГТ"/>
         </outlets>
       </offer>
       <offer id="1111175727_1">
