@@ -734,7 +734,7 @@
         <price>37444</price>
         <oldprice>50550</oldprice>
         <outlets>
-          <outlet instock="129" warehouse_name="Москва"/>
+          <outlet instock="128" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11715">
@@ -748,21 +748,21 @@
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="171" warehouse_name="Москва"/>
+          <outlet instock="169" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11713">
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="226" warehouse_name="Москва"/>
+          <outlet instock="225" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11714">
         <price>41255</price>
         <oldprice>55695</oldprice>
         <outlets>
-          <outlet instock="311" warehouse_name="Москва"/>
+          <outlet instock="308" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11614">
@@ -783,7 +783,7 @@
         <price>40034</price>
         <oldprice>54046</oldprice>
         <outlets>
-          <outlet instock="341" warehouse_name="Москва"/>
+          <outlet instock="340" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="1111165336">
