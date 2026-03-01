@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-01 20:11">
+<yml_catalog date="2026-03-02 00:02">
   <shop>
     <offers>
       <offer id="1111176813">
@@ -734,49 +734,49 @@
         <price>37444</price>
         <oldprice>50550</oldprice>
         <outlets>
-          <outlet instock="127" warehouse_name="Москва"/>
+          <outlet instock="125" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11715">
         <price>41255</price>
         <oldprice>55695</oldprice>
         <outlets>
-          <outlet instock="258" warehouse_name="Москва"/>
+          <outlet instock="257" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11712">
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="168" warehouse_name="Москва"/>
+          <outlet instock="166" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11713">
         <price>38554</price>
         <oldprice>52048</oldprice>
         <outlets>
-          <outlet instock="217" warehouse_name="Москва"/>
+          <outlet instock="216" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11714">
         <price>41255</price>
         <oldprice>55695</oldprice>
         <outlets>
-          <outlet instock="299" warehouse_name="Москва"/>
+          <outlet instock="298" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11614">
         <price>40034</price>
         <oldprice>54046</oldprice>
         <outlets>
-          <outlet instock="212" warehouse_name="Москва"/>
+          <outlet instock="213" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11613">
         <price>37444</price>
         <oldprice>50550</oldprice>
         <outlets>
-          <outlet instock="82" warehouse_name="Москва"/>
+          <outlet instock="81" warehouse_name="Москва"/>
         </outlets>
       </offer>
       <offer id="11615">
